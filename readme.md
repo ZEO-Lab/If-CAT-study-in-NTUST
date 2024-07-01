@@ -29,5 +29,5 @@
    - [Getting a Player to Shoot Bullets in Processing](https://www.youtube.com/watch?v=_k_yRbUeVxY)
    - [Destroying Enemies by Shooting them in Processing](https://www.youtube.com/watch?v=UlpjKVKHNio)
 
-4. 影像：
+4. 影像： [影像連結](Image_Reference.txt)
 
