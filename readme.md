@@ -17,13 +17,13 @@
 
 ## 遊戲畫面 Game Screenshot ##
 每個學期都會有各式各樣的的敵人，以及期末考Boss。  
-   <img src = "pic/Intro/Intro2.jpg" width = "70%">  
+   <img src = "pic/Intro/intro2.jpg" width = "70%">  
    - 有些特殊敵人攻擊力低，其的能力會對玩家造成各種影響
-   <img src = "pic/Intro/Intro3.jpg" width = "80%">  
+   <img src = "pic/Intro/intro3.jpg" width = "80%">  
    - 一旦敵人被擊敗，會遺留下 [肉泥] ，貓咪吃下肉泥能夠恢復生命力
    <img src = "pic/Intro/recover.jpg" width = "80%">  
    - 每個學期的Boss會越來越強，能力也越來越多，攻擊力也越來越強
-   <img src = "pic/Intro/Intro6.jpg" width = "80%">  
+   <img src = "pic/Intro/intro6.jpg" width = "80%">  
 
 ## 遊玩影片 ##    
 <img src = "pic/Intro/fragment1.gif" width = "80%">  
