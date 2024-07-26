@@ -57,6 +57,7 @@ abstract class College_Life extends page{
     public void render() {
         background(255);
         gmap.drawBackGroundImage();
+        smap.render();
         if (player.isComplete()) {  
             state = 4;
         }
@@ -92,7 +93,6 @@ abstract class College_Life extends page{
                 win_page.gpa(player.hp.getLifePercentage());
                 break;
         }
-        smap.render();
         option();
     }
     public void move(int moveInstr) {
