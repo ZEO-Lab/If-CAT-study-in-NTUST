@@ -8,32 +8,27 @@
 最終，玩家將見證小咪順利畢業，邁向她的學術夢想。  
 加入這場智慧與努力的冒險，幫助小咪戰勝每一個學期的考驗吧！
 
-> [!WARNING]
-> 由於檔案龐大，一開始執行須等待片刻，方可遊玩。
-
 ## 如何遊玩 How to play ##
 1. 玩家需要先選擇就學的貓咪。  
-<img src = "pic/Character/pipi/left.png" width = "20%">
-<img src = "pic/Character/mi/left.png" width = "27%">
-<img src = "pic/Character/milk/left.png" width = "27%">  
+<img src = "pic/Character/pipi/left.png" width = "20%"> <img src = "pic/Character/mi/left.png" width = "27%"> <img src = "pic/Character/milk/left.png" width = "27%">  
 
 2. 貓咪打倒各種敵人，通過每個學期  
-<img src = "pic/intro/control.jpg" width = "80%">  
+<img src = "pic/Intro/control.jpg" width = "80%">  
 
 ## 遊戲畫面 Game Screenshot ##
 每個學期都會有各式各樣的的敵人，以及期末考Boss。  
-   <img src = "pic/intro/intro2.jpg" width = "70%">  
+   <img src = "pic/Intro/Intro2.jpg" width = "70%">  
    - 有些特殊敵人攻擊力低，其的能力會對玩家造成各種影響
-   <img src = "pic/intro/intro3.jpg" width = "80%">  
+   <img src = "pic/Intro/Intro3.jpg" width = "80%">  
    - 一旦敵人被擊敗，會遺留下 [肉泥] ，貓咪吃下肉泥能夠恢復生命力
-   <img src = "pic/intro/recover.jpg" width = "80%">  
+   <img src = "pic/Intro/recover.jpg" width = "80%">  
    - 每個學期的Boss會越來越強，能力也越來越多，攻擊力也越來越強
-   <img src = "pic/intro/intro6.jpg" width = "80%">  
+   <img src = "pic/Intro/Intro6.jpg" width = "80%">  
 
 ## 遊玩影片 ##    
-<img src = "pic/intro/fragment1.gif" width = "80%">  
+<img src = "pic/Intro/fragment1.gif" width = "80%">  
 
-<img src = "pic/intro/fragment2.gif" width = "80%">  
+<img src = "pic/Intro/fragment2.gif" width = "80%">  
 
 ## 如何下載 How to dlownload ##  
  => 請下載完整壓縮檔zip後，執行src.exe，稍待片刻後即可遊玩
