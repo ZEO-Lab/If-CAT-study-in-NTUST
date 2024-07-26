@@ -9,7 +9,7 @@
 加入這場智慧與努力的冒險，幫助小咪戰勝每一個學期的考驗吧！
 
 ## 如何遊玩 How to play ##
-1. 玩家需要先選擇就學的貓咪。  
+1. 玩家需要先選擇就學的貓咪，遊戲也會顯示對應貓咪的各種特殊照片歐。  
 <img src = "pic/Character/pipi/left.png" width = "20%"> <img src = "pic/Character/mi/left.png" width = "27%"> <img src = "pic/Character/milk/left.png" width = "27%">  
 
 2. 貓咪打倒各種敵人，通過每個學期  
